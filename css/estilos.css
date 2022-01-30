@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    /** font-family: 'Comforter', cursive; */
 }
 
 body{
@@ -125,3 +127,4 @@ img{
          width: 1200px;
     }
 }
+/** tooltip**/
